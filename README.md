@@ -1,3 +1,3 @@
 # bootstrap-bootcamp
 
-https://notelmehdi.github.io/bootstrap-bootcamp/
+https://mehdibenennia.github.io/bootstrap-bootcamp/
